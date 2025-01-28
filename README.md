@@ -1,1 +1,1 @@
-"# Just-For-Logs-Disocrd-Bot-" 
+"# Just-For-Logs-Disocrd-Bot" 
